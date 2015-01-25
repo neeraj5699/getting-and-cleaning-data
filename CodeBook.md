@@ -1,30 +1,3 @@
-
-This repository
-
-    Explore
-    Gist
-    Blog
-    Help
-
-    Neeraj Kumar neeraj5699
-
-    1 
-
-0
-
-    2
-
-laurikoobas/coursera-getting-and-cleaning-data
-
-coursera-getting-and-cleaning-data/CodeBook.md
-Lauri Koobas laurikoobas on 26 May 2014
-Add CodeBook.md
-
-1 contributor
-273 lines (176 sloc) 5.724 kb
-Codebook for wearable computing dataset
-Variables
-
 subject                    1..2
     Subject number
                            1..30 .Unique identifier assigned to each subject
